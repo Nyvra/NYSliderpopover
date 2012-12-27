@@ -2,7 +2,7 @@
 
 A UISlider Category to display a popover above slider
 
-Written by [Cassius Pacheco](https://twitter.com/CassiusPacheco_) at [Nyvra Software](http://nyvra.net), Dezember 2012.
+Written by [Cassius Pacheco](https://twitter.com/CassiusPacheco_) at [Nyvra Software](http://nyvra.net), December 2012.
 
 
 ## Installation
@@ -30,3 +30,7 @@ You can open the `NYSliderPopoverDemo` demo project in Xcode and run it on your 
 ## ARC
 
 This version is made using Automated Reference Counting.
+
+## License
+
+NYSliderPopover is available under the MIT license. See the LICENSE file for more info.
