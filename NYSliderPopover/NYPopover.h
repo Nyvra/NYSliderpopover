@@ -11,6 +11,5 @@
 @interface NYPopover : UIView
 
 @property (nonatomic, strong) UILabel *textLabel;
-@property (nonatomic, strong) UIImageView *imageView;
 
 @end
