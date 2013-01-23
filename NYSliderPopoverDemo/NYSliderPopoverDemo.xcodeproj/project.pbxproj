@@ -20,8 +20,6 @@
 		756AE64D168C99D8001945AD /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 756AE64B168C99D8001945AD /* MainStoryboard_iPad.storyboard */; };
 		756AE650168C99D8001945AD /* NYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 756AE64F168C99D8001945AD /* NYViewController.m */; };
 		756AE661168C9A01001945AD /* NYPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = 756AE65C168C9A01001945AD /* NYPopover.m */; };
-		756AE662168C9A01001945AD /* NYPopoverBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 756AE65D168C9A01001945AD /* NYPopoverBackground.png */; };
-		756AE663168C9A01001945AD /* NYPopoverBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 756AE65E168C9A01001945AD /* NYPopoverBackground@2x.png */; };
 		756AE664168C9A01001945AD /* NYSliderPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = 756AE660168C9A01001945AD /* NYSliderPopover.m */; };
 /* End PBXBuildFile section */
 
@@ -45,8 +43,6 @@
 		756AE64F168C99D8001945AD /* NYViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NYViewController.m; sourceTree = "<group>"; };
 		756AE65B168C9A01001945AD /* NYPopover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NYPopover.h; sourceTree = "<group>"; };
 		756AE65C168C9A01001945AD /* NYPopover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYPopover.m; sourceTree = "<group>"; };
-		756AE65D168C9A01001945AD /* NYPopoverBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NYPopoverBackground.png; sourceTree = "<group>"; };
-		756AE65E168C9A01001945AD /* NYPopoverBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NYPopoverBackground@2x.png"; sourceTree = "<group>"; };
 		756AE65F168C9A01001945AD /* NYSliderPopover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NYSliderPopover.h; sourceTree = "<group>"; };
 		756AE660168C9A01001945AD /* NYSliderPopover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NYSliderPopover.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,8 +122,6 @@
 			children = (
 				756AE65B168C9A01001945AD /* NYPopover.h */,
 				756AE65C168C9A01001945AD /* NYPopover.m */,
-				756AE65D168C9A01001945AD /* NYPopoverBackground.png */,
-				756AE65E168C9A01001945AD /* NYPopoverBackground@2x.png */,
 				756AE65F168C9A01001945AD /* NYSliderPopover.h */,
 				756AE660168C9A01001945AD /* NYSliderPopover.m */,
 			);
@@ -193,8 +187,6 @@
 				756AE647168C99D8001945AD /* Default-568h@2x.png in Resources */,
 				756AE64A168C99D8001945AD /* MainStoryboard_iPhone.storyboard in Resources */,
 				756AE64D168C99D8001945AD /* MainStoryboard_iPad.storyboard in Resources */,
-				756AE662168C9A01001945AD /* NYPopoverBackground.png in Resources */,
-				756AE663168C9A01001945AD /* NYPopoverBackground@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
