@@ -33,8 +33,6 @@
 {
     [super setFrame:frame];
     
-    self.imageView.frame = CGRectMake(0, 0, frame.size.width, frame.size.height);
-    
     CGFloat y = (frame.size.height - 26) / 3;
     
     if (frame.size.height < 38)
