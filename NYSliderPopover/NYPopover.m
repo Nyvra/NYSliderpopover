@@ -19,7 +19,7 @@
         self.textLabel.backgroundColor = [UIColor clearColor];
         self.textLabel.textColor = [UIColor whiteColor];
         self.textLabel.font = [UIFont boldSystemFontOfSize:13];
-        self.textLabel.textAlignment = UITextAlignmentCenter;
+        self.textLabel.textAlignment = NSTextAlignmentCenter;
         self.textLabel.adjustsFontSizeToFitWidth = YES;
         self.opaque = NO;
         
