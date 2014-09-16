@@ -1,6 +1,6 @@
 # NYSliderPopover
 
-A UISlider Category to display a popover above slider
+A UISlider subclass that displays a popover above the slider as the value changes.
 
 Written by [Cassius Pacheco](https://twitter.com/CassiusPacheco_) at [Nyvra Software](http://nyvra.net), December 2012.
 
@@ -12,13 +12,13 @@ Just drop the files under `Source` into your Xcode project.
 
 ## Usage
 
-First you have to import the category
+First import NYSliderPopover.h
 
 	#import "NYSliderPopover.h"
 	
-then simply create a slider with Storyboards, XIBs or code.
+Then simply create an NYSliderPopover instance with Storyboards, XIBs or code ad you'd normally do with a regular UISlider.
 	
-see the demo for more detailed examples
+See the demo for more detailed examples.
 
 
 ## Demo
